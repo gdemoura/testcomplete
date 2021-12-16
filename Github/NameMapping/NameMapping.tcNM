@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{FCA37C32-8B67-460C-97DF-179625CA2976}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="EXCEL" Key="{6905F3C2-6954-4937-BF07-9AFF83F01CD1}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="EXCEL" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndExcel" Key="{CFBE3A93-4500-46A7-B79F-5FF2C41EB6B6}">
+								<Image FileName="131020749" Left="0" Top="0" Right="1750" Bottom="1001" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="XLMAIN" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Excel" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panel" Key="{911C4147-4743-4309-88B2-3FFF7A065E57}">
+										<Image FileName="131020749" Left="1" Top="1" Right="1749" Bottom="1000" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="FullpageUIHost" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="pane" Key="{8C8BE27E-8C7C-436E-832A-BB79F98BE46B}">
+												<Image FileName="131020749" Left="1" Top="1" Right="1749" Bottom="1000" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="NetUIHWND" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="titlebarExcel" Key="{FD490372-0E98-45CC-8959-9A69B9ED71D6}">
+														<Image FileName="131020749" Left="141" Top="1" Right="1348" Bottom="35" />
+														<TypeInfo Item0="{E543BAFD-6390-4223-8958-E20062A3E232}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="TitleBar" />
+															</Property>
+															<Property Name="Caption">
+																<Value Value="Excel" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="paneBackstageView" Key="{F01B1C85-BA00-466E-BAAF-114B4BF74313}">
+														<Image FileName="1460506649" Left="141" Top="38" Right="1749" Bottom="1000" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Pane" />
+															</Property>
+															<Property Name="Caption">
+																<Value Value="Backstage view" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="client" Key="{85727F67-2C8E-4E35-84E0-9A43423EE1AD}">
+																<Image FileName="1460506649" Left="141" Top="38" Right="1749" Bottom="1000" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Client" />
+																	</Property>
+																	<Property Name="ControlIndex">
+																		<Value Value="0" Type="0" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="paneHome" Key="{DA8DB5B3-BA63-48B1-84BD-865488F21455}">
+																		<Image FileName="1460506649" Left="141" Top="38" Right="1749" Bottom="1000" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Pane" />
+																			</Property>
+																			<Property Name="Caption">
+																				<Value Value="Home" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="groupingHome" Key="{81C90DD8-78FC-4FB9-9079-4E32C2240B62}">
+																				<Image FileName="1460506649" Left="141" Top="84" Right="1749" Bottom="1000" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Grouping" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="Home" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="client" Key="{4730F239-BA77-4C27-9815-E35DA6676BBE}">
+																						<Image FileName="1460506649" Left="141" Top="84" Right="1732" Bottom="1000" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Client" />
+																							</Property>
+																							<Property Name="ControlIndex">
+																								<Value Value="0" Type="0" />
+																							</Property>
+																							<Property Name="ObjectGroupIndex">
+																								<Value Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="groupingOpen" Key="{D7069AC1-8051-4523-90D8-C9960CFAA804}">
+																								<Image FileName="1460506649" Left="141" Top="382" Right="1692" Bottom="846" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Grouping" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Open" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="listRecent" Key="{89CCC75E-A902-4F5F-92F3-BE5BB368B60A}">
+																										<Image FileName="1460506649" Left="181" Top="470" Right="1692" Bottom="806" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="List" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Recent" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="pane" Key="{EBB8CFF6-A777-415A-BB80-673AE953FAFF}">
+														<Image FileName="-1025290684" Left="1" Top="38" Right="141" Bottom="1000" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Pane" />
+															</Property>
+															<Property Name="ControlIndex">
+																<Value Value="6" Type="0" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="client" Key="{3F9CD39B-FAF4-4214-8F05-70D5B12073DC}">
+																<Image FileName="-1025290684" Left="1" Top="38" Right="141" Bottom="1000" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Client" />
+																	</Property>
+																	<Property Name="ControlIndex">
+																		<Value Value="0" Type="0" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="listFile" Key="{BD2FC9C2-6654-4103-A586-0070955F168B}">
+																		<Image FileName="-1025290684" Left="1" Top="38" Right="141" Bottom="1000" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="List" />
+																			</Property>
+																			<Property Name="Caption">
+																				<Value Value="File" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panel2" Key="{5059B5B4-E3CE-46DC-8AB6-3C59EDBE1E22}">
+										<TypeInfo Item0="{A0A9E2DD-FEE3-4386-97E1-92374D8090B8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="XLDESK" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panel3" Key="{98EC57E4-6292-4C0A-A488-0BD26B384253}">
+										<Image FileName="-621924270" Left="1" Top="1" Right="1749" Bottom="162" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="EXCEL2" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolbar" Key="{5DC98CD4-12ED-45D8-88EE-62BCF6CD9B48}">
+												<Image FileName="-621924270" Left="1" Top="1" Right="1749" Bottom="162" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Ribbon" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelRibbon" Key="{7706A351-71F0-4539-BD0D-835743D3322B}">
+														<Image FileName="-621924270" Left="1" Top="1" Right="1749" Bottom="162" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="Caption">
+																<Value Value="Ribbon" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{C17FC738-90A7-43E6-BBE7-A7E05FD421FA}">
+																<Image FileName="-621924270" Left="1" Top="1" Right="1749" Bottom="162" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NUIPane" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="propertypageRibbon" Key="{BAECFB9F-5EDC-4FDA-BFE8-ADAC1073BF4A}">
+																		<Image FileName="-621924270" Left="1" Top="1" Right="1749" Bottom="162" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="PropertyPage" />
+																			</Property>
+																			<Property Name="Caption">
+																				<Value Value="Ribbon" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="buttonFileTab" Key="{10752008-57D6-452F-A98B-3B764417A9EB}">
+																				<Image FileName="1118314680" Left="1" Top="35" Right="55" Bottom="65" />
+																				<TypeInfo Item0="{E543BAFD-6390-4223-8958-E20062A3E232}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="File Tab" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="EXCEL" Owner="{6905F3C2-6954-4937-BF07-9AFF83F01CD1}">
+			<Child Name="wndExcel" Owner="{CFBE3A93-4500-46A7-B79F-5FF2C41EB6B6}">
+				<Child Name="panel" Owner="{911C4147-4743-4309-88B2-3FFF7A065E57}">
+					<Child Name="pane" Owner="{8C8BE27E-8C7C-436E-832A-BB79F98BE46B}">
+						<Child Name="titlebarExcel" Owner="{FD490372-0E98-45CC-8959-9A69B9ED71D6}" />
+						<Child Name="paneBackstageView" Owner="{F01B1C85-BA00-466E-BAAF-114B4BF74313}">
+							<Child Name="client" Owner="{85727F67-2C8E-4E35-84E0-9A43423EE1AD}">
+								<Child Name="paneHome" Owner="{DA8DB5B3-BA63-48B1-84BD-865488F21455}">
+									<Child Name="groupingHome" Owner="{81C90DD8-78FC-4FB9-9079-4E32C2240B62}">
+										<Child Name="client" Owner="{4730F239-BA77-4C27-9815-E35DA6676BBE}">
+											<Child Name="groupingOpen" Owner="{D7069AC1-8051-4523-90D8-C9960CFAA804}">
+												<Child Name="listRecent" Owner="{89CCC75E-A902-4F5F-92F3-BE5BB368B60A}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="pane" Owner="{EBB8CFF6-A777-415A-BB80-673AE953FAFF}">
+							<Child Name="client" Owner="{3F9CD39B-FAF4-4214-8F05-70D5B12073DC}">
+								<Child Name="listFile" Owner="{BD2FC9C2-6654-4103-A586-0070955F168B}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="panel2" Owner="{5059B5B4-E3CE-46DC-8AB6-3C59EDBE1E22}" />
+				<Child Name="panel3" Owner="{98EC57E4-6292-4C0A-A488-0BD26B384253}">
+					<Child Name="toolbar" Owner="{5DC98CD4-12ED-45D8-88EE-62BCF6CD9B48}">
+						<Child Name="panelRibbon" Owner="{7706A351-71F0-4539-BD0D-835743D3322B}">
+							<Child Name="panel" Owner="{C17FC738-90A7-43E6-BBE7-A7E05FD421FA}">
+								<Child Name="propertypageRibbon" Owner="{BAECFB9F-5EDC-4FDA-BFE8-ADAC1073BF4A}">
+									<Child Name="buttonFileTab" Owner="{10752008-57D6-452F-A98B-3B764417A9EB}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

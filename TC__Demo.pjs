@@ -4,12 +4,14 @@
 		<child name="Web" key="{70006970-D9D6-4979-AD2E-A5E403C607E1}" path="Web\Web.mds" />
 		<child name="Desktop" key="{236CF0D4-3D25-4150-A65B-5F947837F5DB}" path="Desktop\Desktop.mds" />
 		<child name="Mobile" key="{0E931682-E25F-4AB7-ADF1-82DA5001F94A}" path="Mobile\Mobile.mds" />
+		<child name="Github" key="{09EE4C27-8B4F-4BD5-8504-C605540F0648}" path="Github\Github.mds" />
 	</children>
 	<testItems key="{2037D7A5-1278-4F2B-AA1D-4E88AFEB25B6}">
 		<children>
 			<testItem key="{70006970-D9D6-4979-AD2E-A5E403C607E1}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{236CF0D4-3D25-4150-A65B-5F947837F5DB}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{0E931682-E25F-4AB7-ADF1-82DA5001F94A}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{09EE4C27-8B4F-4BD5-8504-C605540F0648}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{FE674B89-58EB-4ACE-B156-FAA0E7869AF2}" />

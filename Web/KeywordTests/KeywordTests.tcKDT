@@ -5,5 +5,6 @@
 		<child name="ContactUs" key="{F04F0F74-16F4-4519-9AF2-3F94515511BB}" path="ContactUs.tcKDTest" />
 		<child name="Logout" key="{D65FD993-CD00-4EB0-9FFB-448D6FBFBB6E}" path="Logout.tcKDTest" />
 		<child name="AddtoCart" key="{D5C696CC-90D4-422D-A0EC-FD05A70E14EC}" path="AddtoCart.tcKDTest" />
+		<child name="PushTest" key="{B45052C8-B0C2-4398-AB08-925352DD1C6D}" path="PushTest.tcKDTest" />
 	</children>
 </Root>

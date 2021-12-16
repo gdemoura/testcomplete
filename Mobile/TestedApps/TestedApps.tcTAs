@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{AEEF6B7B-C3AD-4847-B9E7-AA09F5BD380B}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{518A264C-F7CE-4794-AF27-743A9296010E}">
+			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="BitBar">
+					<param name="BitBar" parameters="" workFolder="" application="C:\Users\Public\Documents\TestComplete 15 Samples\Mobile\Android\Orders\Orders Application\bin\Orders.apk" upload="True" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

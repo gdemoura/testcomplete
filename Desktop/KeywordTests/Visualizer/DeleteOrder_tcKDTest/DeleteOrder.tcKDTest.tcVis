@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{758786C2-8A63-49A7-B465-D5CEEA118AE9}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44545.7302777778" objectName="Aliases.Orders.MainForm.OrdersView.listitemGabriel" objectLeft="10" objectTop="105" objectRight="1132" objectBottom="122" clickPointX="101" clickPointY="106" imageFileName="tcvi18470792187321.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44545.7303009259" objectName="Aliases.Orders.popupContext.menuitemDeleteOrder" objectLeft="3" objectTop="47" objectRight="151" objectBottom="69" clickPointX="51" clickPointY="56" imageFileName="tcvi18470954687324.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44545.7303240741" objectName="Aliases.Orders.dialogConfirmation.buttonYes" objectLeft="56" objectTop="114" objectRight="131" objectBottom="137" clickPointX="102" clickPointY="126" imageFileName="tcvi18471156287327.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{76A0B67D-1CC5-4838-BCC6-D5243E7A1ED9}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44544.8421527778" objectName="Aliases.browser.BrowserWindow" objectLeft="799" objectTop="76" objectRight="824" objectBottom="91" clickPointX="804" clickPointY="81" imageFileName="tcvi107973265203282.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44544.8422685185" objectName="Aliases.browser.pageFurniture.sectionContent.linkShowDetailsForBallChair.imageShowDetailsForBallChair" objectLeft="913" objectTop="534" objectRight="1066" objectBottom="708" clickPointX="981" clickPointY="620" imageFileName="tcvi107982984203288.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44544.8423148148" objectName="Aliases.browser.pageEeroAarnioBallChair1966.sectionContent.articleBallChair.linkAddToCart.textnodeAddToCart" objectLeft="1309" objectTop="630" objectRight="1399" objectBottom="651" clickPointX="1347" clickPointY="634" imageFileName="tcvi1079865462032812.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

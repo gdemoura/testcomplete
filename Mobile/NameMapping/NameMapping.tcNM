@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Mobile" Key="{4F20CC66-B2B0-48AD-B45B-6BE551773750}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Mobile" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Device" Key="{14E2D3C9-B4D0-4D5F-9B34-988C35B1E3C4}">
+						<TypeInfo Item0="{FF5B7CC5-139C-4952-8E90-21501F7154C1}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Device" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="processSmartbearExampleOrders" Key="{4A8FED6C-0937-4A06-B630-B6F60F2E1A81}">
+								<Properties>
+									<Property Name="ProcessName">
+										<Value Value="smartbear.example.orders" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="listView1" Key="{60F063AD-65D4-4763-9C43-4145DD3DCB27}">
+										<Image FileName="562586821" Left="64" Top="448" Right="1376" Bottom="2258" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;smartbear.example.orders:id/listView1&quot;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//android.widget.ListView" />
+											</Selector>
+											<Selector>
+												<Value Value="//ancestor::*[android.widget.TwoLineListItem]" />
+											</Selector>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;android:id/content&quot;]/android.widget.LinearLayout/android.widget.ListView" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textViewText1" Key="{EF6621EB-F926-4708-90C1-B9BA01432FEF}">
+										<Image FileName="562586821" Left="96" Top="480" Right="1376" Bottom="597" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@text=&quot;John Smith Jr&quot;]" />
+											</Selector>
+											<Selector>
+												<Value Value="(//*[@resource-id=&quot;android:id/text1&quot;])[1]" />
+											</Selector>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;smartbear.example.orders:id/listView1&quot;]/android.widget.TwoLineListItem[1]/android.widget.TextView[1]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonDelete" Key="{DD37EEA4-4A2E-47FA-9AEB-719745F68ED5}">
+										<Image FileName="562586821" Left="892" Top="256" Right="1376" Bottom="448" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;smartbear.example.orders:id/deleteButton&quot;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//*[@text=&quot;Delete&quot;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;smartbear.example.orders:id/buttons_layout&quot;]/android.widget.Button[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="button1" Key="{BAA6EF14-FF00-49FA-8760-9C1EAE00A7B4}">
+										<Image FileName="545008965" Left="721" Top="1645" Right="1340" Bottom="1837" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;android:id/button1&quot;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//*[@text=&quot;Yes&quot;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//*[@resource-id=&quot;android:id/buttonPanel&quot;]/android.widget.LinearLayout/android.widget.Button[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Device" Owner="{14E2D3C9-B4D0-4D5F-9B34-988C35B1E3C4}">
+			<Child Name="processSmartbearExampleOrders" Owner="{4A8FED6C-0937-4A06-B630-B6F60F2E1A81}">
+				<Child Name="listView1" Owner="{60F063AD-65D4-4763-9C43-4145DD3DCB27}">
+					<Child Name="textViewText1" Owner="{EF6621EB-F926-4708-90C1-B9BA01432FEF}" />
+				</Child>
+				<Child Name="buttonDelete" Owner="{DD37EEA4-4A2E-47FA-9AEB-719745F68ED5}" />
+				<Child Name="button1" Owner="{BAA6EF14-FF00-49FA-8760-9C1EAE00A7B4}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

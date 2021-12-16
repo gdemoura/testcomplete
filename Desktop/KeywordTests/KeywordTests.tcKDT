@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="NewOrder" key="{C8D52201-DB19-4541-B350-23BCD864D558}" path="NewOrder.tcKDTest" />
+		<child name="DeleteOrder" key="{758786C2-8A63-49A7-B465-D5CEEA118AE9}" path="DeleteOrder.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TypeInfo StoreCodeCompletion="1">
+	<Child Hash="108206675" Key="{FF5B7CC5-139C-4952-8E90-21501F7154C1}">
+		<Data Properties="6B3D24E15F385447BFDC0B5B2E1A2E14UFFFFFFFFFFFFFFFFV4L1ZZY">
+			<FunctionDescriptions>
+				<Child Name="DeviceModel" Doc="Returns the device&apos;s model." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+					<ReturnValue Param0="8" />
+				</Child>
+			</FunctionDescriptions>
+		</Data>
+	</Child>
+</TypeInfo>

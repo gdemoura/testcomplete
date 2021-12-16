@@ -2,5 +2,6 @@
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
 		<child name="PushPull" key="{B14AA5D3-D9DA-4DA3-AE0D-ED7933785884}" path="PushPull.tcKDTest" />
+		<child name="Test1" key="{C53B0B29-FFA9-4B44-8072-B70886DF2E2F}" path="Test1.tcKDTest" />
 	</children>
 </Root>
